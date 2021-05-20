@@ -1,0 +1,1 @@
+# Hackintosh-OC-ASUS B250M + i5 7500 + GT730 + AOC C24G1
